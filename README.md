@@ -1,4 +1,4 @@
-### WEATHER APP 
+## WEATHER APP 
 
 A simple open source weather web app built with basic HTML and Vanilla Javascript ,
 gathers data from https://darksky.net/dev, via their public API.
